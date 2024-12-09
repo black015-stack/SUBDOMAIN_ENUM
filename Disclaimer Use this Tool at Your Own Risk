@@ -1,0 +1,28 @@
+Disclaimer
+
+Use this Tool at Your Own Risk
+
+This subdomain enumeration tool is provided "as-is" without any guarantees or warranties of any kind. By using this tool, you acknowledge and agree to the following terms:
+
+    Purpose:
+        This tool is designed for educational purposes and legitimate cybersecurity assessments only.
+        Unauthorized use of this tool to target or test systems without explicit permission is strictly prohibited and may violate laws or ethical guidelines.
+
+    Legal and Ethical Responsibility:
+        You are solely responsible for ensuring that your use of this tool complies with all applicable laws, regulations, and ethical guidelines.
+        Any misuse, including unauthorized testing, exploitation, or harm to systems, is entirely your responsibility.
+
+    Liability:
+        The developer(s) of this tool do not assume any liability or responsibility for damages, legal consequences, or ethical violations resulting from the use or misuse of this tool.
+
+    Third-Party Services:
+        The tool integrates with third-party services (e.g., Shodan API). You are responsible for ensuring compliance with the terms and conditions of these services.
+
+    Data and Privacy:
+        Ensure that you handle all collected data responsibly and respect privacy laws and regulations.
+
+    No Warranty:
+        The tool is provided without any warranty, either expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.
+
+By using this tool, you agree to these terms and accept full responsibility for its use. If you are unsure about the legality or ethical implications of your actions, consult a qualified professional or legal advisor.
+
